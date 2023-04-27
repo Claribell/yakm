@@ -1,3 +1,3 @@
 # yakm
-Yet Another Kafka Manager
+Yet Another Kafka Operator
 Developers: Clari & Jeffrey R
